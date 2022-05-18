@@ -214,8 +214,10 @@
                     loop: true,
                     strings: [
                         'Writer',
-                        'Editor',
+                        'Digital Marketer',
                         'Copywriter',
+                        'Editor',
+                        
                     ],
                     breakLines: false
                 });
