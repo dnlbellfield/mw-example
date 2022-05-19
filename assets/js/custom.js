@@ -213,9 +213,9 @@
                     speed: 200,
                     loop: true,
                     strings: [
-                        'Writer',
-                        'Digital Marketer',
                         'Copywriter',
+                        'Content Specialist',
+                        'Digital Marketer',
                         'Editor',
                         
                     ],
